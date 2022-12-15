@@ -1,4 +1,4 @@
-# Advanced_RPC
+# Advanced_RPS
 
 Advanced Rock Paper Scissors - a game in which you need to choose your character
 and try your luck against the bot. In total, you are given 3 options to choose from: Wizard (1), Warrior (2), Rogue (3).
